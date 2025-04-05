@@ -1,1 +1,3 @@
-# -Superstore-Sales-Dashboard-and-Sales-Forecasting
+Project Title: Superstore Sales Dashboard and Sales Forecasting using Power BI
+
+This project focused on building an interactive sales dashboard and forecasting future sales for a retail superstore using Power BI. The dashboard visualized key sales metrics such as revenue, profit, top-selling products, regional performance, and customer segments. Time series forecasting techniques were applied to predict future sales trends, helping in strategic planning and inventory management. The project demonstrated data-driven insights for improving business performance and decision-making in retail operations.
